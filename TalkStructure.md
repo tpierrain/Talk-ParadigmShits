@@ -7,5 +7,9 @@ Inspired by Nancy DUARTE recommendations (see. Resonate), we will work on the st
  
  The idea is to work on a sparkline like this (below) before we start to produce any slide:
  
- ![sparklineSample](https://pbs.twimg.com/media/CziiBeOXUAAMrcO.jpg:large)
+![sparklineSample](https://pbs.twimg.com/media/CziiBeOXUAAMrcO.jpg:large)
 
+here:
+  - 0 (level) means __"what is"__ 
+  - 10 (level) means __"what may be"__
+  - The sparkline ends with the __call for action__.
