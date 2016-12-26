@@ -5,7 +5,7 @@ Inspired by Nancy DUARTE recommendations (see. Resonate), we will work on the st
  - What is the call for action?
  - What is the tipping point for the audience?
  
- The idea is to work on a sparkline like this (below) before we start to produce any slide:
+Once we will have diverged a lot (see [BrainsDump.md](BrainsDump.md)), the idea is to work then on a __sparkline__ like the one below before we start to produce any slide:
  
 ![sparklineSample](https://pbs.twimg.com/media/CziiBeOXUAAMrcO.jpg:large)
 
