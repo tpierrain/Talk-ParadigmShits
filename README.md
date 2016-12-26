@@ -21,7 +21,7 @@ TBD...
 ## Steps
 
 1. [BrainsDump.md](BrainsDump.md)  __<-- we are here__
-1. Find call for action for our talk
+1. Find the *call for action* of our talk
 1. Define abstract and title for it
 1. Register a few [CFPs](CFPs.md)
 1. Draft the [structure of our talk](TalkStructure.md)
