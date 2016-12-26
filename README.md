@@ -3,7 +3,11 @@
 Repo to prepare a talk about programming paradigms
 
 
-## Title: To be defined...
+## Title: 
+To be defined...e.g.: 
+ - Don't paradigm me!
+ - Paradigm shi(f)ts
+ - ...
 
 ## Abstract: 
 TBD...
