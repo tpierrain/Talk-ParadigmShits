@@ -32,8 +32,9 @@ we could also rehearse it in a BBL mode or within a few meetup communities. E.g.
 ## Steps
 
  - [BrainsDump.md](BrainsDump.md)  __<-- we are here__
- - Find call for action
- - Define abstract and title
+ - Find call for action for our talk
+ - Define abstract and title for it
  - Register a few CFPs
  - Draft the [structure of our talk](TalkStructure.md)
  - Work out slides and story telling
+ - Let's rock da house!
