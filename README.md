@@ -1,4 +1,5 @@
-# Talk-ParadigmShits
+# Paradigm shits
+
 Repo to prepare a talk about programming paradigms
 
 
