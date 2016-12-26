@@ -5,6 +5,7 @@ Repo to prepare a talk about programming paradigms (OOPs, FPs, ...)
 
 ## Title: 
 To be defined...e.g.: 
+ - PARADIGME toi même !
  - Don't paradigm me!
  - Paradigm shi(f)ts
  - ...
