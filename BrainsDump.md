@@ -24,7 +24,11 @@
   * Categories<=>types
   * erasure vs reification
 
+* OOP n'est pas impératif!
+ - Un OOP solide n'est pas non-plus héritage à donf etc. (on a appris de nos erreurs en quelques décennies) -> cf. leçons du GOF etc (composition over inheritance etc).
+
 * Approche hybride (d'ailleurs évoquée dans DDD): l'intérêt d'apporter une touche fonctionnelle à son objet pour y réduire les effets de bords
+ - les réflexions intéressantes de Tomasz JASKULA qui explique que OO et FP sont plus que combinables (orthogonaux?) - A creuser.
 
 * Quelques liens/ références:
  - I'm too old for FP ;-) https://twitter.com/aliostad/status/813309817611845632
