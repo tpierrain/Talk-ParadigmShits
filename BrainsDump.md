@@ -26,7 +26,15 @@
 
 * Approche hybride (d'ailleurs évoquée dans DDD): l'intérêt d'apporter une touche fonctionnelle à son objet pour y réduire les effets de bords
 
+* Quelques liens/ références:
+ - I'm too old for FP ;-) https://twitter.com/aliostad/status/813309817611845632
+ - [Tweet de Fowler](https://twitter.com/martinfowler/status/809395279929585664) à propos du super post de Lucas Dohmen: [FP vs. OO](https://www.innoq.com/en/blog/fp-vs-oo/)
+
+
+
 * Paradigmes et modèles mentaux:
  - Nous ne sommes pas tous câblés pareils. Cf le rapport Math vs. Physique ou plutôt Maths théorique vs. Maths apliqués.
  - Le cas ELM et la démarche d'Evan Czaplicki: à ce sujet, il faut absolument que tu regardes [les 20 1ere minutes de son talk Let's be mainstream!](https://www.youtube.com/watch?v=oYk8CKH7OhE)
+ - Programmation réactive (push vs. pull). L'intéressant cas RX (parti d'un labo de recherche chez MS et maintenant partout : Java, JS, ...)
+ - (Impératif) Synchrone vs. programmation Asynchrone. Pourquoi il est utile de sauter le pas mental si on ne veut pas être condamné à utiliser des workaround comme Async-Await
  - Le cas REPL vs. TDD (aspect charge cognitive)
