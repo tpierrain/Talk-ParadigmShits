@@ -43,4 +43,5 @@
  - (Impératif) Synchrone vs. programmation Asynchrone. Pourquoi il est utile de sauter le pas mental si on ne veut pas être condamné à utiliser des workaround comme Async-Await
  - Le cas REPL vs. TDD (aspect charge cognitive)
  
- * revisiter le livre de Alistair Cockburn sur survivre des projets OO: http://alistair.cockburn.us/get/2430
+
+* revisiter le livre de Alistair Cockburn sur survivre des projets OO: http://alistair.cockburn.us/get/2430
