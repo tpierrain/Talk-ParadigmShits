@@ -1,6 +1,6 @@
 # Paradigm shits...
 
-Repo to prepare a talk about programming paradigms
+Repo to prepare a talk about programming paradigms (OOPs, FPs, ...)
 
 
 ## Title: 
