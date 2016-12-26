@@ -26,5 +26,5 @@ we could also rehearse it in a BBL mode or within a few meetup communities. E.g.
 
 ## Steps
 
- - [BrainsDump.md](BrainsDump.md)
+ - [BrainsDump.md](BrainsDump.md)  __<-- we are here ;-)__
  - [TalkStructure.md](TalkStructure.md)
