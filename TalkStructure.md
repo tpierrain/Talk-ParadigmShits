@@ -1,6 +1,8 @@
 # Structure of our talk
 
-Inspired by Nancy DUARTE recommendations (see. Resonate), we will work on the structure of our talk:
+(Where we draft the structure of our talk)
+
+Inspired by Nancy DUARTE recommendations (see. [Resonate](http://resonate.duarte.com/)), we will work on the structure of our talk:
  - What is the problem?
  - What is the call for action?
  - What is the tipping point for the audience?
@@ -13,3 +15,5 @@ here:
   - 0 (level) means __"what is"__ 
   - 10 (level) means __"what may be"__
   - The sparkline ends with the __call for action__.
+  
+  *Note: 0 and 10 are completely arbitrary here (I should had made them disappear on the diagram)*
